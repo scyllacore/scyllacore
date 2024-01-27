@@ -10,29 +10,17 @@
 - 프레임워크: <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>, <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 - 데이터베이스: <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>, <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>, <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-## 🌱 현재 학습 중인 것들
+## 🎯 알고리즘 랭킹
 
-- [학습 중인 기술1]
-- [학습 중인 기술2]
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sketchlive)](https://solved.ac/sketchlive)
 
 ## 📈 GitHub 통계
 
 ![scyllacore's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyllacore&show_icons=true&theme=transparent) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scyllacore&layout=compact)
 
 ## 🤝 연락처
-
 - [instagram](https://instagram.com/sickidyoon)
 
-## 📊 주요 프로젝트
-
-- [프로젝트1](https://github.com/your-username/project1)
-- [프로젝트2](https://github.com/your-username/project2)
-
-## ❤️ 감사합니다!
-
-프로필을 방문해 주셔서 감사합니다. 더 자세한 정보는 제 [포트폴리오](https://your-portfolio.com)에서 확인하실 수 있습니다.
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sketchlive)](https://solved.ac/sketchlive)
 
 

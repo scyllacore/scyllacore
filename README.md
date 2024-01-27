@@ -6,8 +6,8 @@
 
 ## 🚀 기술 스택
 
-- 언어: <img src="https://img.shields.io/badge/Java-F38338?style=flat-square&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> ,  <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=cplusplus&logoColor=white"/> 
-- 프레임워크: [프레임워크1], [프레임워크2]
+- 언어 : <img src="https://img.shields.io/badge/Java-F38338?style=flat-square&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> ,  <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=cplusplus&logoColor=white"/> 
+- 프레임워크: <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>, [프레임워크2]
 - 데이터베이스: [데이터베이스1], [데이터베이스2]
 
 ## 🌱 현재 학습 중인 것들

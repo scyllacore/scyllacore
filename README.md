@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=myungsik%20Yoon&fontSize=60)
-
-# 👋 안녕하세요! 저희 GitHub 프로필에 오신 것을 환영합니다.
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=myungsik%20Yoon&fontSize=60)
 
 저는 백엔드 개발자가 되기 위해 끊임없이 노력하고 있는 윤명식이라고 합니다. 다양한 경험을 쌓기 위해 새로운 도전을 해보고 있습니다.
 

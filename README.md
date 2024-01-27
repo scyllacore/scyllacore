@@ -6,7 +6,7 @@
 
 ## 🚀 기술 스택
 
-- 언어: <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Android&logoColor=white"/>, [언어2], [언어3]
+- 언어: <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>, [언어2], [언어3]
 - 프레임워크: [프레임워크1], [프레임워크2]
 - 데이터베이스: [데이터베이스1], [데이터베이스2]
 

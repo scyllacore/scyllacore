@@ -1,10 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=scyllacore&fontSize=60)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=scyllacore&fontSize=60)
+# 👋 안녕하세요! 저희 GitHub 프로필에 오신 것을 환영합니다.
 
-# 👋 안녕하세요! 나의 GitHub 프로필에 오신 것을 환영합니다.
-
-저는 [Your Name]이라고 합니다. [Your City]에 위치한 개발자로 [Your Company/Organization]에서 일하고 있습니다.
+저는 백엔드 개발자가 되기 위해 끊임없이 노력하고 있는 윤명식이라고 합니다. 다양한 경험을 쌓기 위해 새로운 도전을 해보고 있습니다.
 
 ## 🚀 기술 스택
 

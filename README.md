@@ -32,4 +32,7 @@
 
 프로필을 방문해 주셔서 감사합니다. 더 자세한 정보는 제 [포트폴리오](https://your-portfolio.com)에서 확인하실 수 있습니다.
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sketchlive)](https://solved.ac/sketchlive)
+
 

@@ -21,9 +21,7 @@
 
 ## 🤝 연락처
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [블로그](https://your-blog.com)
+- [instagram](https://instagram.com/sickidyoon)
 
 ## 📊 주요 프로젝트
 

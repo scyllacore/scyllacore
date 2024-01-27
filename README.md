@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=myungsik%20Yoon&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=header&text=myungsik%20Yoon&fontSize=40)
 
 저는 백엔드 개발자가 되기 위해 끊임없이 노력하고 있는 윤명식이라고 합니다. 다양한 경험을 쌓기 위해 새로운 도전을 해보고 있습니다.
 
@@ -18,10 +18,10 @@
 ![scyllacore's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyllacore&show_icons=true&theme=transparent) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scyllacore&layout=compact)
 
 ## 🤝 연락처
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/scyllacore">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/scyllacore"
+        style="height : auto; margin-left : 20px; margin-right : 15px;"/>
 </a>
 
 

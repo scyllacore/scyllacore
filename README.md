@@ -17,9 +17,7 @@
 
 ## 📈 GitHub 통계
 
-![scyllacore's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyllacore&show_icons=true&theme=transparent)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scyllacore&layout=compact)
+![scyllacore's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyllacore&show_icons=true&theme=transparent)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scyllacore&layout=compact)
 
 ## 🤝 연락처
 

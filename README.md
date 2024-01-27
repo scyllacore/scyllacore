@@ -17,12 +17,3 @@
 
 ![scyllacore's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyllacore&show_icons=true&theme=transparent) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scyllacore&layout=compact)
 
-## 🤝 About Me
-<a href="https://instagram.com/sickidyoon">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sickidyoon"
-        style="height : auto; margin-left : 20px; margin-right : 15px;"/>
-</a>
-
-
-

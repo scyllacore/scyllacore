@@ -18,7 +18,11 @@
 ![scyllacore's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyllacore&show_icons=true&theme=transparent) &nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scyllacore&layout=compact)
 
 ## 🤝 연락처
-- [instagram](https://instagram.com/sickidyoon)
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 

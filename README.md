@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=header&text=Myungsik%20Yoon&fontSize=40)
 
-저는 백엔드 개발자가 되기 위해 끊임없이 노력하고 있는 윤명식이라고 합니다. 다양한 경험을 쌓기 위해 새로운 도전을 해보고 있습니다.
+백엔드 개발자가 되기 위해 끊임없이 노력하고 있는 윤명식입니다. 다양한 경험을 쌓기 위해 새로운 도전 중 입니다.
 
 ## 🚀 Tech Stack
 

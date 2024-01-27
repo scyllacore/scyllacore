@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=scyllacore&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=scyllacore&fontSize=60)
 
 # 👋 안녕하세요! 저희 GitHub 프로필에 오신 것을 환영합니다.
 

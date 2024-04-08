@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=header&text=Myungsik%20Yoon&fontSize=40)
 
-백엔드 개발자가 되기 위해 끊임없이 노력하고 있는 윤명식입니다. 다양한 경험을 쌓기 위해 새로운 도전 중 입니다.
-
 ## 🚀 Tech Stack
 
 - 언어 : <img src="https://img.shields.io/badge/Java-F38338?style=flat-square&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>, <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> ,  <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=cplusplus&logoColor=white"/> 
